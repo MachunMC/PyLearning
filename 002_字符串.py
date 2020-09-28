@@ -6,7 +6,7 @@
 # @Software: PyCharm
 
 '''
-0. python中，用引号括起来的内容称为字符串，既可以用单引号，又可以用双引号。
+0. python中，用引号括起来的内容称为字符串，既可以用单引号，又可以用双引号
     灵活的使用单双引号，可以在一个字符串中，既包含单引号，又包含双引号
 
 1. 方法：方法是对数据执行相应的操作，方法后面会跟一对小括号，表示传参，参数可以为空
@@ -25,7 +25,7 @@
 print("This is a string!")
 print('This is also a string!')
 print("My name's michael.")
-#print('My name's michael.')        # 错误写法
+print('My name's michael.')        # 错误写法
 
 # 修改大小写
 name = "machun michael"

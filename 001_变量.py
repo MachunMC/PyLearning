@@ -12,7 +12,7 @@
     (2) 变量名应该简洁易懂
 
 1. 使用方法
-    (0) python中，定义变量不需要指定数据类型，变量的数据类型，是根据所赋的值所决定的。
+    (0) python中，定义变量不需要指定数据类型，变量的数据类型，是根据所赋的值决定的
     (1) 变量可以用整数、浮点数、字符和字符串来赋值
     (2) 同一个变量，可以分别赋为不同类型的值
 '''
@@ -21,7 +21,6 @@ message = "welcome to python world"
 print(message)
 
 null = ""
-#null
 print(null)
 
 message = "It's great to use python"
