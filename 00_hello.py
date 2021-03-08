@@ -6,3 +6,7 @@
 # @Software: PyCharm
 
 print("hello world")
+print('hello again')
+
+message = "nice to see you again!"
+print(message)

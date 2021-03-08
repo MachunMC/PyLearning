@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Project : python_learning
-# @File    : 001_变量.py
+# @File    : 01_变量.py
 # @Author  : Machun Michael
 # @Time    : 2020/5/16 18:26
 # @Software: PyCharm
@@ -23,9 +23,6 @@ print(message)
 null = ""
 print(null)
 
-message = "It's great to use python"
-print(message)
-
 name = "michael"
 age = 25
 print("hello, my name's %s, and I'm %d years old" %(name, age))
@@ -34,9 +31,6 @@ var = 10
 print("var is ", var)
 
 var = 3.141592653
-print("var is ", var)
-
-var = "i"
 print("var is ", var)
 
 var = "int"
