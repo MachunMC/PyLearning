@@ -14,3 +14,4 @@ for language in prog_languages:
     print(language)
 
 # 解读：依次从列表prog_languages中取出一个值，保存到变量language中，然后再打印language的值
+# 不要遗漏了for语句最后的冒号
