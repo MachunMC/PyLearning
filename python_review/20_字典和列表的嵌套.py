@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Project : python_learning
-# @File    : 20_嵌套.py
+# @File    : 20_字典和列表的嵌套.py
 # @Author  : Machun Michael
 # @Time    : 2021/3/26 21:25
 # @Software: PyCharm
